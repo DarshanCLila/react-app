@@ -1,0 +1,22 @@
+.list table{
+    width: 100%;
+    background: #fff;
+    border-radius: 4px;
+    box-shadow: 0 0 12px #999;
+}
+.list table th {
+    font-weight: 800;
+    padding:8px 5px;
+    color: #737373;
+}
+.list table td {
+    color: #737373;
+    padding:15px 5px;
+}
+.list table td a {
+    cursor: pointer;
+}
+.list table td, .list table th {
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
